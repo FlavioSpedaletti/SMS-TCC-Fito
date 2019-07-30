@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="SmsManager.PortUtilities">
+    <Position X="2.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>PortUtilities.cs</FileName>
+      <HashCode>CAAAAQhAAAQIAAAAAAAwIAACIEAgAAAAQQAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Delegate Name="SmsManager.PortUtilities.OnMessageLog" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PortUtilities.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="WindowsApplication1.frmMain">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>gKQA5CwQlCAAKZRQBAeGQAAClMa7AQRBAGSJARLCCgA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Method Name="AddItem" Hidden="true" />
+      <Field Name="aSMSs" Hidden="true" />
+      <Field Name="bLower" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Method Name="button1_Click" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Field Name="button22" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Method Name="button4_Click" Hidden="true" />
+      <Field Name="chkRespostaAutomatica" Hidden="true" />
+      <Field Name="cmbTipoMensagem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="disableAllToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Method Name="frmMain" Hidden="true" />
+      <Method Name="hideTabsToolStripMenuItem_Click" Hidden="true" />
+      <Field Name="iLen" Hidden="true" />
+      <Field Name="imageList1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="lblTimeToRefresh" Hidden="true" />
+      <Field Name="lstLog" Hidden="true" />
+      <Field Name="mouse_offset" Hidden="true" />
+      <Method Name="OnItemSelected" Hidden="true" />
+      <Method Name="OnLoadToolbox" Hidden="true" />
+      <Method Name="OnSaveToolbox" Hidden="true" />
+      <Method Name="OnToolboxClick" Hidden="true" />
+      <Method Name="OnToolboxDoubleClick" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="panel3" Hidden="true" />
+      <Field Name="panel4" Hidden="true" />
+      <Method Name="panel4_MouseDown" Hidden="true" />
+      <Method Name="panel4_MouseMove" Hidden="true" />
+      <Field Name="panel5" Hidden="true" />
+      <Field Name="panel6" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="skinImage1" Hidden="true" />
+      <Field Name="SMSs" Hidden="true" />
+      <Field Name="sSMSParts" Hidden="true" />
+      <Field Name="tExecTrd" Hidden="true" />
+      <Field Name="textButton1" Hidden="true" />
+      <Method Name="textButton1_Click" Hidden="true" />
+      <Field Name="textButton2" Hidden="true" />
+      <Method Name="textButton2_Click" Hidden="true" />
+      <Field Name="textButton3" Hidden="true" />
+      <Method Name="textButton3_Click" Hidden="true" />
+      <Field Name="textButton4" Hidden="true" />
+      <Field Name="tHeapTrd" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Method Name="Timer1Tick" Hidden="true" />
+      <Field Name="toolbox1" Hidden="true" />
+      <Field Name="txtComando" Hidden="true" />
+      <Field Name="txtMensagem" Hidden="true" />
+      <Field Name="txtNumero" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Delegate Name="WindowsApplication1.frmMain.LstDelegateLst" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Struct Name="WindowsApplication1.frmMain.TipoMensagem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="WindowsApplication1.frmMain.DemoToolbox" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="WindowsApplication1.frmMain.LstDelegateLbl" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="WindowsApplication1.Program">
+    <Position X="7" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Resource1">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYEAAAAEgAAAAABMAAAAQAAAAAAAAAAAAAQAIg=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Property Name="_3d_closed" Hidden="true" />
+      <Property Name="_3d_closed1" Hidden="true" />
+      <Property Name="bt_admin" Hidden="true" />
+      <Property Name="CRDFLE07" Hidden="true" />
+      <Property Name="CRDFLE071" Hidden="true" />
+      <Property Name="Culture" Hidden="true" />
+      <Property Name="LOCKEYS2" Hidden="true" />
+      <Property Name="LOCKEYS21" Hidden="true" />
+      <Method Name="Resource1" Hidden="true" />
+      <Field Name="resourceCulture" Hidden="true" />
+      <Field Name="resourceMan" Hidden="true" />
+      <Property Name="ResourceManager" Hidden="true" />
+      <Property Name="sav" Hidden="true" />
+      <Property Name="sav1" Hidden="true" />
+      <Property Name="wallet" Hidden="true" />
+      <Property Name="wallet1" Hidden="true" />
+    </Members>
+  </Class>
+  <Class Name="WindowsApplication1.Users">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Users.cs</FileName>
+      <HashCode>AEQQAEAAAgAAABAAAAAAgACEAAAAAAAAAAAAQAAABAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_CellPhoneNumber" Hidden="true" />
+      <Field Name="_FName" Hidden="true" />
+      <Field Name="_IDGroup" Hidden="true" />
+      <Field Name="_LName" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="WindowsApplication1.Electronics">
+    <Position X="7" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Electronics.cs</FileName>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAIAQACAAAAAAAAAAAQAAADAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_Name" Hidden="true" />
+      <Field Name="_Port" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="WindowsApplication1.SMS">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>SMS.cs</FileName>
+      <HashCode>AAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAQAQAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_Type" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="WindowsApplication1.Connection">
+    <Position X="5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Connection.cs</FileName>
+      <HashCode>gAAAAAAAAAACIAAAAAAAAACAAAAAAAAAAAAAAACgAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="_ConnString" Hidden="true" />
+      <Field Name="_Path_File" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
