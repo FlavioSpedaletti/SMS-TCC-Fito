@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="um" title="Sobre">
+<img src="t.wbmp" alt="FITO"/>
+<p><em>Tema:</em><br />
+GPRS<br /><br />
+<em>Integrantes:</em><br />
+Anderson<br />
+Bruno<br />
+Flavio<br />
+Tiago<br /><br />
+<a href="#dois">Sistema</a>
+</p>
+</card>
+<card id="dois" title="Sistema">
+<p>Sequencia de leds:<br />
+<select name="acao">
+<option value="um">0-0-0-0</option>
+<option value="dois">0-0-0-1</option>
+<option value="tres">0-0-1-1</option>
+<option value="quatro">0-1-1-1</option>
+<option value="cinco">1-1-1-1</option>
+</select><br /><br />
+<a href="#um">Sobre</a>
+</p>
+</card>
+</wml>
